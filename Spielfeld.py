@@ -14,7 +14,7 @@ class Spielfeld:
     def entferne_objekt(self, breite, höhe):
         if self.ist_gueltig_position(breite, höhe):
             self._felder[höhe][breite] = None
-            
+            asdasdadsadsadsads
     def __str__
             
         
