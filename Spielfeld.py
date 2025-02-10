@@ -18,3 +18,4 @@ class Spielfeld:
     def __str__
             
         
+ssssssssssssssssssssssssssssssssssssssssssssss
